@@ -1,5 +1,5 @@
 # Merge
-##problem
+## problem
 For implementing function with this interface
     merge (int[] collection_1, int[] collection_2) : int []
 
