@@ -1,5 +1,5 @@
 # Merge
-## Pretest Primo Internship
+
 ### Setup Step
 1. clone my project<br/>
 2. install npm for this project
